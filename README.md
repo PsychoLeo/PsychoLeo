@@ -1,6 +1,6 @@
 Bonjour, j'ai 17 ans et suis actuellement en Terminale. Je suis depuis peu (2 ans) passionné de programmation et depuis
 le début de cette année, je me suis interessé à l'algorithmique et ai participé à des nombreuses compétitions
-telles que Google Hash Code, Code Jam, Prologin, AGM,... De plus, je suis inscrit sur le site France IOI (dernier niveau), que
+telles que Google Hash Code, Code Jam, Kick Start, Prologin, AGM, Algoréa (même si la plupart d'entre elles sont en cours de déroulement). De plus, je suis inscrit sur le site France IOI (dernier niveau), que
 j'apprécie particulièrement pour ses exercices sur divers sujets (dont mes préférés sont la programmation dynamique, les 
 algorithmes semi-numériques et les arbres binaires). Ce qui m'intéresse dans l'algorithmique est la recherche de solutions
 à des problèmes et l'optimisation (parfois à l'aide des mathématiques).
