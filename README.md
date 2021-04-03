@@ -15,5 +15,6 @@ Dans cette page GitHub figurent plusieurs projets et programmes divisés en mult
 - competitions de programmation (Hash Code, Prologin, Code Jam, Kick Start, Algorea, AGM)
 - programmes en C++ et Java
 - certificats en Python et Java (MIT, SoloLearn, HackerRank)
+- exercices du programme de NSI
 
 Adresse mail personnelle : leo@mopili.com
