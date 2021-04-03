@@ -6,6 +6,6 @@ Ayant mis en place avec un ami un club d'algorithmique au sein de notre école, 
 visio-conférence afin d'implémenter des algorithmes (dont vous pouvez accéder au code source ici) ou de réaliser des
 projets. 
 
-Mon langage favori ? C++ (pour son efficacité et ses structures de données) mais suivi de près par Python (pour sa flexibilité et sa simplicité). J'ai aussi fait un tout petit peu de C et de HTML, mais je me suis surtout concentré sur le Python et le C++ plus récemment.
+Mon langage favori ? C++ (pour son efficacité et ses structures de données) mais suivi de près par Python (pour sa flexibilité et sa simplicité). J'ai aussi fait un tout petit peu de C et de HTML, mais je me suis surtout concentré sur le Python, ainsi que le C++ plus récemment.
 
 Si vous désirez me contacter, voici mon adresse mail personnelle : leo@mopili.com
