@@ -9,4 +9,4 @@ projets.
 Mon langage favori ? C++ (pour son efficacité et ses structures de données) mais suivi de près par Python (pour sa flexibilité et sa simplicité). J'ai aussi fait du C, Java et HTML, mais je me suis surtout concentré sur le Python, ainsi que le C++ plus récemment.
 Je travaille depuis plus d'un an sur Linux (Ubuntu 18.04 - 20.04) et manie donc plutôt bien l'invite de commande.
 
-Si vous désirez me contacter, voici mon adresse mail personnelle : leo@mopili.com
+Adresse mail personnelle : leo@mopili.com
