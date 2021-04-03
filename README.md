@@ -11,7 +11,7 @@ Mon langage favori ? C++ (pour son efficacité et ses structures de données) ma
 Dans cette page GitHub figurent plusieurs projets et programmes divisés en multiples dossiers (par ordre décroissant de taille) :
 - algorithmique (IOI, exercices en ligne, algorithmes implémentés)
 - python (simulations physiques, graphiques avec matplotlib, intelligence artificielle, cryptographie, mathématiques, jeux avec pygame)
-- club d'informatique (résolveur de labyrinthe, graphes, algorithme de Gale-Shapley, résolveur de sudoku, algorithmes de la théorie des nombres, approximations de constantes mathématiques, algorithmes de tri, binome de Newton)
+- club d'informatique (résolveur de labyrinthe, graphes, algorithme de Gale-Shapley, résolveur de sudoku, algorithmes de la théorie des nombres, approximations de constantes mathématiques, algorithmes de tri, binome de Newton, jeu d'échecs en cours d'implémentation)
 - competitions de programmation (Hash Code, Prologin, Code Jam, Kick Start, Algorea, AGM)
 - programmes en C++ et Java
 - certificats en Python et Java (MIT, SoloLearn, HackerRank)
