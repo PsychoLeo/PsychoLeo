@@ -6,7 +6,7 @@ Ayant mis en place avec un ami un club d'algorithmique au sein de notre école, 
 visio-conférence afin d'implémenter des algorithmes (dont vous pouvez accéder au code source ici) ou de réaliser des
 projets. 
 
-Mon langage favori ? C++ (pour son efficacité et ses structures de données) mais suivi de près par Python (pour sa flexibilité et sa simplicité). J'ai aussi fait du C, Ocaml, Java et HTML, mais je me suis surtout concentré sur le Python, ainsi que le C++ plus récemment.Je travaille depuis plus d'un an sur Linux (Ubuntu 18.04 - 20.04) et manie donc plutôt bien l'invite de commande.
+Mon langage favori ? C++ (pour son efficacité et ses structures de données) mais suivi de près par Python (pour sa flexibilité et sa simplicité). J'ai aussi fait du C, Ocaml, Java et HTML, mais je me suis surtout concentré sur le Python, ainsi que le C++ plus récemment. Je travaille depuis plus d'un an sur Linux (Ubuntu 18.04 - 20.04) et manie donc plutôt bien l'invite de commande.
 
 Dans cette page GitHub figurent plusieurs projets et programmes divisés en multiples dossiers (par ordre décroissant de taille) :
 - **algorithmique** (progression sur France-IOI, exercices en ligne, algorithmes implémentés)
