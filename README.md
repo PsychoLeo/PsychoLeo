@@ -6,7 +6,7 @@ Ayant mis en place avec un ami un club d'algorithmique au sein de notre école, 
 visio-conférence afin d'implémenter des algorithmes (dont vous pouvez accéder au code source ici) ou de réaliser des
 projets. 
 
-Mon langage favori ? C++ (pour son efficacité et ses structures de données) mais suivi de près par Python (pour sa flexibilité et sa simplicité). J'ai aussi fait du C, Ocaml, Java et HTML, mais je me suis surtout concentré sur le Python, ainsi que le C++ plus récemment. Je travaille depuis plus d'un an sur Linux (Ubuntu 18.04 - 20.04) et manie donc plutôt bien l'invite de commande.
+Mon langage favori ? C++ (pour son efficacité et ses structures de données) mais suivi de près par Python (pour sa flexibilité, sa simplicité et SURTOUT sa gestion des grands nombres, dont j'ai souvent besoin comme support en mathématiques). J'ai aussi fait du C, Ocaml, Java et HTML, mais je me suis surtout concentré sur le Python, ainsi que le C++ plus récemment. Je travaille depuis plus d'un an sur Linux (Ubuntu 18.04 - 20.04) et manie donc plutôt bien l'invite de commande.
 
 Les fichiers liés aux mathématiques et à la physique se situent dans le dossier d'algorithmique, python et du club d'informatique. Sur cette page GitHub figurent plusieurs projets et programmes divisés en multiples dossiers (listés ci-dessous par ordre décroissant de taille) :
 - **algorithmique** (progression sur France-IOI ou Projet Euler, exercices en ligne, algorithmes implémentés)
